@@ -33,7 +33,7 @@ mech-projects:
   - name: Airship
     image_url: assets/img/Blimp.jpg
     url: mech/Blimp.html
-    description: Remote-controlled lighter-than-air vehicle
+    description: Remote controlled lighter-than-air vehicle
 
   - name: Stewart Platform
     image_url: assets/img/pureY.jpg
@@ -48,7 +48,7 @@ mech-projects:
   - name: Automated Test Jig
     image_url: assets/img/ReliabilityJig.jpg
     url: mech/Reliability.html
-    description: Linear stage automated reliability tester
+    description: Arduino-controlled automated reliability tester which ran over 20,000 cycles
 
   - name: Daft Punk helmet
     image_url: assets/img/DaftPunk.jpg

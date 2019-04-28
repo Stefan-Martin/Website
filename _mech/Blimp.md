@@ -1,12 +1,8 @@
 ---
 title: "Blimp"
 published: true
+layout: post
 ---
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
-
-# Highlighter
-
-}
+# Helium filled remote-controlled blimp
+under construction
+![Blimp](/assets/img/Blimp.jpg)

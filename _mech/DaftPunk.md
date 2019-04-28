@@ -1,10 +1,10 @@
 ---
 title: "Daft Punk Guy Manuel Helmet"
 published: true
+layout: post
 ---
 
-**Guy-Manuel Helmet**
+**Guy-Manuel Helmet 3d printed entirely on the Form2**
 
-I hope you like it!
-
-# Highlighter
+![Guy-manuel](/../assets/img/DaftPunk.jpg)
+Under construction
