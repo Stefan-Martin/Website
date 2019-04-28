@@ -1,7 +1,7 @@
-{% if project.web_url %}
-  <a href="{{ project.web_url }}" class="github-component position-relative hover-grow height-full no-underline d-flex flex-column flex-justify-center text-center border border-gray-light rounded-1 bg-white p-5">
+{% if project.url %}
+  <a href="{{ site.baseurl }}{{ project.url }}" class=" position-relative hover-grow height-full no-underline d-flex flex-column flex-justify-center text-center border border-gray-light rounded-1 bg-white p-5">
     {% if project.image_url %}
-      <img src="{{ project.image_url }}" width="64" height="64" class="mx-auto rounded-1 mb-3" alt="{{ project.name }}">
+      <img src="{{ project.image_url }}" width=100% height=auto class="mx-auto rounded-1 mb-3" alt="{{ project.name }}">
     {% else %}
       <div
         class="bg-blue-light f4 text-gray-light text-bold rounded-1 flex-shrink-0 text-center mx-auto mb-3"
