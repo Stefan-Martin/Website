@@ -32,27 +32,27 @@ projects:
 mech-projects:
   - name: Airship
     image_url: assets/img/Blimp.jpg
-    url: mech/Blimp.html
+    url: /mech/Blimp.html
     description: Remote controlled lighter-than-air vehicle
 
   - name: Stewart Platform
     image_url: assets/img/pureY.jpg
-    url: mech/Stewart.html
+    url: /mech/Stewart.html
     description: Servo controlled 6 DOF platform
   
   - name: Rocketry Oxidizer Tank
     image_url: assets/img/OxTank.jpeg
-    url: mech/oxTank.html
+    url: /mech/oxTank.html
     description: Weight optimized nitrous oxide tank designed to handle 1500psi
   
   - name: Automated Test Jig
     image_url: assets/img/ReliabilityJig.jpg
-    url: mech/Reliability.html
+    url: /mech/Reliability.html
     description: Arduino-controlled automated reliability tester which ran over 20,000 cycles
 
   - name: Daft Punk helmet
     image_url: assets/img/DaftPunk.jpg
-    url: mech/DaftPunk.html
+    url: /mech/DaftPunk.html
     description: 3D printed on the Form2 with a thermoformed visor
     
 
