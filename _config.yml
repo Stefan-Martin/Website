@@ -29,19 +29,19 @@ projects:
      
 mech-projects:
   - name: Airship
-    image_url: /assets/img/Blimp.jpg
+    image_url: assets/img/Blimp.jpg
     description: Remote-controlled lighter-than-air vehicle
 
   - name: Stewart Platform
-    image_url: /assets/img/Stewart.png
+    image_url: assets/img/Stewart.png
     description: 6 DOF control of a hydraulic platform
   
   - name: Rocketry Oxidizer Tank
-    image_url: /assets/img/OxTank.jpeg
+    image_url: assets/img/OxTank.jpeg
     description: CNC machined nitrous oxide tank designed to handle 1500psi
   
   - name: Automated Test Jig
-    image_url: /assets/img/ReliabilityJig.jpg
+    image_url: assets/img/ReliabilityJig.jpg
     description: Linear stage automated reliability tester
 
 social_media:
