@@ -54,6 +54,11 @@ mech-projects:
     image_url: assets/img/DaftPunk.jpg
     url: /mech/DaftPunk.html
     description: 3D printed on the Form2 with a thermoformed visor
+  
+  - name: Self-Mixing Interferometer
+    image_url: assets/img/Setup.jpg
+    url: /mech/interferometer.html
+    description: Capstone project to do inexpensive metrology with a laser diode
     
 
 social_media:
