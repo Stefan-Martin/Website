@@ -10,3 +10,9 @@ layout: post
 ![NOS tank](../assets/img/OxTank.jpeg)
 The bulkhead geometry was analyzed using ANSYS to ensure a saftey factor of 2 as mandated by IREC requirements.
 ![simulation](../assets/img/Vent.png)
+
+
+![Assembly](../assets/img/oxAssembly.jpg)
+
+
+![WDR](../assets/img/WDR.jpg)
