@@ -56,9 +56,14 @@ mech-projects:
     description: 3D printed on the Form2 with a thermoformed visor
   
   - name: Self-Mixing Interferometer
-    image_url: assets/img/Setup.jpg
+    image_url: assets/img/pewpew.jpg
     url: /mech/interferometer.html
-    description: Capstone project to do inexpensive metrology with a laser diode
+    description: Capstone project for inexpensive metrology using a laser diode
+
+  - name: Inconel Rocket Nozzle
+    image_url: assets/img/nozzle.png
+    url: /mech/nozzle.html
+    description: Development of a 3D printed rocket nozzle
     
 
 social_media:
