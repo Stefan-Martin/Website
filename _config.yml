@@ -28,6 +28,7 @@ projects:
     forks: true
     projects:
      - PuckJs
+     - tensorflowTest
      
 mech-projects:
   - name: Airship
@@ -64,6 +65,10 @@ mech-projects:
     image_url: assets/img/nozzle.png
     url: /mech/nozzle.html
     description: Development of a 3D printed rocket nozzle
+
+  - name: Portfolio
+    image_url: assets/img/SOTS.png
+    url: /assets/StefanMartin_Portfolio.pdf
     
 
 social_media:
@@ -74,8 +79,3 @@ social_media:
   # instagram: your_username
   # keybase: your_username
     linkedin: stefan-martin
-
-#topics:
- # - name: FEA
-
-  #- name: Fluid Mechanics
