@@ -62,7 +62,7 @@ mech-projects:
     description: Capstone project for inexpensive metrology using a laser diode
 
   - name: Inconel Rocket Nozzle
-    image_url: assets/img/nozzle.png
+    image_url: assets/img/Ghost_pepper.png
     url: /mech/nozzle.html
     description: Development of a 3D printed rocket nozzle
 
