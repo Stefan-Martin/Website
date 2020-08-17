@@ -10,6 +10,8 @@ pause: 5000
 
 4th year capstone project which was completed in March 2020. Our team achieved an implementation of [self-mixing interferometry](https://www.researchgate.net/publication/228559944_Laser_diode_self-mixing_technique_for_sensing_applications) which was able to make **sub-micron measurments with ~$200 dollars in off-the shelf components**. My tasks consisted of optic design and component selection as well as the majority of the prototyping efforts. Our aim was to develop this into a commercial system and we won the award for best overall technical quality for our design.
 
+A full research paper, including open-source code and PCB layouts from the project, can be found [here](../assets/smi_paper-NE.pdf).
+
 + ![Award](../assets/img/award.jpg)
 + ![setup](../assets/img/pewpew.jpg)
 + ![laser](../assets/img/longpew.jpg)
