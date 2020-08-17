@@ -37,37 +37,37 @@ mech-projects:
     description: Capstone project for inexpensive metrology using a laser diode
 
   - name: Automated Test Jig
-    image_url: assets/img/ReliabilityJig.jpg
+    image_url: assets/img/smol/ReliabilityJig-min.jpg
     url: /mech/Reliability.html
     description: Arduino-controlled automated reliability tester which ran over 20,000 cycles
   
   - name: DMLS Rocket Nozzle
-    image_url: assets/img/Ghost_pepper.png
+    image_url: assets/img/smol/Ghost_pepper-min.png
     url: /mech/nozzle.html
     description: Development of a 3D printed rocket nozzle
 
   - name: Rocketry Oxidizer Tank
-    image_url: assets/img/OxTank.jpeg
+    image_url: assets/img/smol/OxTank-min.jpeg
     url: /mech/oxTank.html
     description: Weight optimized nitrous oxide tank designed to handle 1500psi
   
   - name: Airship
-    image_url: assets/img/Blimp.jpg
+    image_url: assets/img/smol/Blimp-min.jpg
     url: /mech/Blimp.html
     description: Remote controlled lighter-than-air vehicle
 
   - name: Daft Punk helmet
-    image_url: assets/img/DaftPunk.jpg
+    image_url: assets/img/smol/DaftPunk-min.jpg
     url: /mech/DaftPunk.html
     description: 3D printed on the Form2 with a thermoformed visor
 
   - name: Stewart Platform
-    image_url: assets/img/pureY.jpg
+    image_url: assets/img/smol/pureY-min.jpg
     url: /mech/Stewart.html
     description: Servo controlled 6 DOF platform
 
   - name: Portfolio
-    image_url: assets/img/SOTS.png
+    image_url: assets/img/smol/SOTS-min.png
     url: /assets/StefanMartin_Portfolio.pdf
     
 
