@@ -41,7 +41,7 @@ mech-projects:
     url: /mech/Reliability.html
     description: Arduino-controlled automated reliability tester which ran over 20,000 cycles
   
-  - name: DMLS Rocket Nozzle
+  - name: SLM Rocket Nozzle
     image_url: assets/img/smol/Ghost_pepper-min.png
     url: /mech/nozzle.html
     description: Development of a 3D printed rocket nozzle

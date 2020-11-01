@@ -9,20 +9,20 @@ pause: 5000
 ---
 
 4th year capstone project which was completed in March 2020. Our team achieved an implementation of [self-mixing interferometry](https://www.researchgate.net/publication/228559944_Laser_diode_self-mixing_technique_for_sensing_applications) which was able to make **sub-micron measurments with ~$200 dollars in off-the shelf components**. My tasks consisted of optic design and component selection as well as the majority of the prototyping efforts. Our aim was to develop this into a commercial system and we won the award for best overall technical quality for our design.
-
-A full research paper, including open-source code and PCB layouts from the project, can be found [here](../assets/smi_paper-NE.pdf).
+The [research paper](../papers/Towards-Industrially-Viable-SMI.pdf), including open-source code and PCB layouts from the project.
 
 + ![Award](../assets/img/award.jpg)
 + ![setup](../assets/img/pewpew.jpg)
 + ![laser](../assets/img/longpew.jpg)
 + ![slide](../assets/img/SMI_slide.png)
 
+<object data="../papers/Towards-Industrially-Viable-SMI.pdf" width="100%" height="1060" type='application/pdf'> </object>
 
 <h2>Signal has been acquired with the first prototype!</h2>
 
 We have a setup that is capable of producing a signal with a resolution in excess of **50nm!** I was responsible for selecting all the optical components to collimate and control the laser beam as well as desiging a low-noise laser driver circuit.
 
-The mechanism of operation relates to mode-hpping within the compound cavity formed by the external retroreflector which imparts a frequency and amplitude modulation inside the diode.
+The mechanism of operation depends on induced mode-hopping within the compound cavity formed by the external retroreflector which imparts a frequency and amplitude modulation inside the diode.
 
 ![SMI](../assets/img/SMI.png)
 
